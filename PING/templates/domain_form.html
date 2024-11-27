@@ -1,0 +1,16 @@
+<h1>Domain List</h1>
+
+<form method="POST">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Add Domain</button>
+</form>
+
+<h2>All Domains</h2>
+<ul>
+    {% for domain in domains %}
+        <li>{{ domain.domain_url }}</li>
+    {% empty %}
+        <li>No domains added yet.</li>
+    {% endfor %}
+</ul>

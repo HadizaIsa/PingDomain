@@ -1,0 +1,134 @@
+2024-11-20 14:43:48,345 - INFO - https://google.com is reachable with status code 200
+2024-11-20 14:43:49,218 - INFO - https://example.com is reachable with status code 200
+2024-11-20 14:43:51,244 - INFO - https://yahoo.com is reachable with status code 200
+2024-11-20 14:43:53,547 - WARNING - https://linkedin.com returned status code 429
+2024-11-20 14:43:54,438 - WARNING - http://researchgate.net returned status code 403
+2024-11-20 14:43:57,477 - ERROR - https://grooveshark.com is not reachable. Error: HTTPSConnectionPool(host='grooveshark.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000016191206850>: Failed to resolve 'grooveshark.com' ([Errno 11002] getaddrinfo failed)"))
+2024-11-20 14:44:19,512 - ERROR - Failed to send email. Error: (421, b'Cannot connect to SMTP server 131.153.148.98 (131.153.148.98:587), connect error 10060')
+2024-11-20 14:48:14,144 - INFO - https://google.com is reachable with status code 200
+2024-11-20 14:48:15,058 - INFO - https://example.com is reachable with status code 200
+2024-11-20 14:48:18,214 - INFO - https://yahoo.com is reachable with status code 200
+2024-11-20 14:48:21,102 - INFO - https://linkedin.com is reachable with status code 200
+2024-11-20 14:48:22,298 - WARNING - http://researchgate.net returned status code 403
+2024-11-20 14:48:25,231 - ERROR - https://grooveshark.com is not reachable. Error: HTTPSConnectionPool(host='grooveshark.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001E5D2884820>: Failed to resolve 'grooveshark.com' ([Errno 11002] getaddrinfo failed)"))
+2024-11-20 14:48:47,163 - ERROR - Failed to send email. Error: (421, b'Cannot connect to SMTP server 131.153.148.98 (131.153.148.98:587), connect error 10060')
+2024-11-20 17:23:57,298 - INFO - https://google.com is reachable with status code 200
+2024-11-20 17:23:58,327 - INFO - https://example.com is reachable with status code 200
+2024-11-20 17:24:01,927 - INFO - https://yahoo.com is reachable with status code 200
+2024-11-20 17:24:04,373 - INFO - https://linkedin.com is reachable with status code 200
+2024-11-20 17:24:05,693 - WARNING - http://researchgate.net returned status code 403
+2024-11-20 17:24:08,840 - ERROR - https://grooveshark.com is not reachable. Error: HTTPSConnectionPool(host='grooveshark.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000027EE1AE16A0>: Failed to resolve 'grooveshark.com' ([Errno 11002] getaddrinfo failed)"))
+2024-11-20 17:24:30,228 - ERROR - Failed to send email. Error: (421, b'Cannot connect to SMTP server 131.153.148.98 (131.153.148.98:587), connect error 10060')
+2024-11-20 21:45:22,853 - INFO - https://google.com is reachable with status code 200
+2024-11-20 21:45:23,807 - INFO - https://example.com is reachable with status code 200
+2024-11-20 21:45:26,208 - INFO - https://yahoo.com is reachable with status code 200
+2024-11-20 21:45:28,430 - INFO - https://linkedin.com is reachable with status code 200
+2024-11-20 21:45:29,777 - WARNING - http://researchgate.net returned status code 403
+2024-11-20 21:45:32,436 - ERROR - https://grooveshark.com is not reachable. Error: HTTPSConnectionPool(host='grooveshark.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002D30D66E850>: Failed to resolve 'grooveshark.com' ([Errno 11002] getaddrinfo failed)"))
+2024-11-20 21:45:54,598 - ERROR - Failed to send email. Error: (421, b'Cannot connect to SMTP server 131.153.148.98 (131.153.148.98:587), connect error 10060')
+2024-11-21 10:12:08,014 - INFO - https://google.com is reachable with status code 200
+2024-11-21 10:12:08,967 - INFO - https://example.com is reachable with status code 200
+2024-11-21 10:12:10,988 - INFO - https://yahoo.com is reachable with status code 200
+2024-11-21 10:12:34,735 - INFO - https://linkedin.com is reachable with status code 200
+2024-11-21 10:12:35,654 - WARNING - http://researchgate.net returned status code 403
+2024-11-21 10:12:38,635 - ERROR - https://grooveshark.com is not reachable. Error: HTTPSConnectionPool(host='grooveshark.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C5D4F9EB80>: Failed to resolve 'grooveshark.com' ([Errno 11002] getaddrinfo failed)"))
+2024-11-21 10:13:00,917 - ERROR - Failed to send email. Error: (421, b'Cannot connect to SMTP server 131.153.148.98 (131.153.148.98:587), connect error 10060')
+2024-11-22 17:23:33,380 - INFO - https://google.com is reachable with status code 200
+2024-11-22 17:23:34,622 - INFO - https://example.com is reachable with status code 200
+2024-11-22 17:23:37,461 - INFO - https://yahoo.com is reachable with status code 200
+2024-11-22 17:23:39,729 - INFO - https://linkedin.com is reachable with status code 200
+2024-11-22 17:23:40,946 - WARNING - http://researchgate.net returned status code 403
+2024-11-22 17:23:43,733 - ERROR - https://grooveshark.com is not reachable. Error: HTTPSConnectionPool(host='grooveshark.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020DDF69E820>: Failed to resolve 'grooveshark.com' ([Errno 11002] getaddrinfo failed)"))
+2024-11-22 17:27:32,360 - INFO - https://google.com is reachable with status code 200
+2024-11-22 17:27:33,373 - INFO - https://example.com is reachable with status code 200
+2024-11-22 17:27:36,154 - INFO - https://yahoo.com is reachable with status code 200
+2024-11-22 17:27:38,004 - INFO - https://linkedin.com is reachable with status code 200
+2024-11-22 17:27:39,022 - WARNING - http://researchgate.net returned status code 403
+2024-11-22 17:27:41,775 - ERROR - https://grooveshark.com is not reachable. Error: HTTPSConnectionPool(host='grooveshark.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002C3D37CE8B0>: Failed to resolve 'grooveshark.com' ([Errno 11002] getaddrinfo failed)"))
+2024-11-22 17:27:46,288 - INFO - http://geocities.com. is reachable with status code 200
+2024-11-22 21:24:59,077 - ERROR - https://google.com is not reachable. Error: HTTPSConnectionPool(host='google.com', port=443): Read timed out. (read timeout=30)
+2024-11-22 21:25:29,385 - ERROR - https://example.com is not reachable. Error: HTTPSConnectionPool(host='example.com', port=443): Read timed out. (read timeout=30)
+2024-11-22 21:25:59,719 - ERROR - https://yahoo.com is not reachable. Error: HTTPSConnectionPool(host='yahoo.com', port=443): Read timed out. (read timeout=30)
+2024-11-22 21:26:31,246 - ERROR - https://linkedin.com is not reachable. Error: HTTPSConnectionPool(host='www.linkedin.com', port=443): Read timed out. (read timeout=30)
+2024-11-22 21:26:32,317 - WARNING - http://researchgate.net returned status code 403
+2024-11-22 21:26:34,926 - ERROR - https://grooveshark.com is not reachable. Error: HTTPSConnectionPool(host='grooveshark.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000198F218F2B0>: Failed to resolve 'grooveshark.com' ([Errno 11002] getaddrinfo failed)"))
+2024-11-22 21:27:10,872 - ERROR - http://geocities.com. is not reachable. Error: HTTPSConnectionPool(host='www.yahoo.com', port=443): Read timed out. (read timeout=30)
+2024-11-22 21:29:05,833 - INFO - https://google.com is reachable with status code 200
+2024-11-22 21:29:36,087 - ERROR - https://example.com is not reachable. Error: HTTPSConnectionPool(host='example.com', port=443): Read timed out. (read timeout=30)
+2024-11-22 21:30:06,524 - ERROR - https://yahoo.com is not reachable. Error: HTTPSConnectionPool(host='yahoo.com', port=443): Read timed out. (read timeout=30)
+2024-11-22 21:30:37,486 - ERROR - https://linkedin.com is not reachable. Error: HTTPSConnectionPool(host='www.linkedin.com', port=443): Read timed out. (read timeout=30)
+2024-11-22 21:31:12,269 - ERROR - http://researchgate.net is not reachable. Error: HTTPSConnectionPool(host='www.researchgate.net', port=443): Read timed out. (read timeout=30)
+2024-11-22 21:31:14,942 - ERROR - https://grooveshark.com is not reachable. Error: HTTPSConnectionPool(host='grooveshark.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001DA86FE0D00>: Failed to resolve 'grooveshark.com' ([Errno 11002] getaddrinfo failed)"))
+2024-11-22 21:31:47,520 - ERROR - http://geocities.com. is not reachable. Error: HTTPSConnectionPool(host='www.yahoo.com', port=443): Read timed out. (read timeout=30)
+2024-11-23 19:31:37,707 - INFO - https://google.com is reachable with status code 200
+2024-11-23 19:31:38,595 - INFO - https://example.com is reachable with status code 200
+2024-11-23 19:31:41,150 - INFO - https://yahoo.com is reachable with status code 200
+2024-11-23 19:32:04,163 - WARNING - https://linkedin.com returned status code 429
+2024-11-23 19:32:05,215 - WARNING - http://researchgate.net returned status code 403
+2024-11-23 19:32:07,968 - ERROR - https://grooveshark.com is not reachable. Error: HTTPSConnectionPool(host='grooveshark.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000027B54C70880>: Failed to resolve 'grooveshark.com' ([Errno 11002] getaddrinfo failed)"))
+2024-11-23 19:32:14,124 - INFO - http://geocities.com. is reachable with status code 200
+2024-11-24 13:52:42,361 - INFO - https://google.com is reachable with status code 200
+2024-11-24 13:52:43,355 - INFO - https://example.com is reachable with status code 200
+2024-11-24 13:52:45,503 - INFO - https://yahoo.com is reachable with status code 200
+2024-11-24 13:53:09,047 - INFO - https://linkedin.com is reachable with status code 200
+2024-11-24 13:53:10,134 - WARNING - http://researchgate.net returned status code 403
+2024-11-24 13:53:13,387 - ERROR - https://grooveshark.com is not reachable. Error: HTTPSConnectionPool(host='grooveshark.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000236EC0CF8B0>: Failed to resolve 'grooveshark.com' ([Errno 11002] getaddrinfo failed)"))
+2024-11-24 13:53:17,545 - INFO - http://geocities.com. is reachable with status code 200
+2024-11-24 13:53:39,856 - ERROR - Failed to send email. Error: (421, b'Cannot connect to SMTP server 131.153.148.98 (131.153.148.98:587), connect error 10060')
+2024-11-25 12:57:16,511 - INFO - https://google.com is reachable with status code 200
+2024-11-25 12:57:19,730 - INFO - https://example.com is reachable with status code 200
+2024-11-25 12:57:32,923 - INFO - https://yahoo.com is reachable with status code 200
+2024-11-25 12:57:37,998 - INFO - https://linkedin.com is reachable with status code 200
+2024-11-25 12:57:40,250 - WARNING - http://researchgate.net returned status code 403
+2024-11-25 12:57:41,968 - ERROR - https://grooveshark.com is not reachable. Error: HTTPSConnectionPool(host='grooveshark.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FEF8450E80>: Failed to resolve 'grooveshark.com' ([Errno 11002] getaddrinfo failed)"))
+2024-11-25 12:57:56,275 - INFO - http://geocities.com. is reachable with status code 200
+2024-11-25 13:01:35,172 - INFO - https://google.com is reachable with status code 200
+2024-11-25 13:01:38,458 - INFO - https://example.com is reachable with status code 200
+2024-11-25 13:01:41,901 - INFO - https://yahoo.com is reachable with status code 200
+2024-11-25 13:01:44,370 - INFO - https://linkedin.com is reachable with status code 200
+2024-11-25 13:01:45,062 - WARNING - http://researchgate.net returned status code 403
+2024-11-25 13:01:46,116 - ERROR - https://grooveshark.com is not reachable. Error: HTTPSConnectionPool(host='grooveshark.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000018BACE30AC0>: Failed to resolve 'grooveshark.com' ([Errno 11002] getaddrinfo failed)"))
+2024-11-25 13:02:01,891 - INFO - http://geocities.com. is reachable with status code 200
+2024-11-25 16:07:48,791 - INFO - https://google.com is reachable with status code 200
+2024-11-25 16:07:49,798 - INFO - https://example.com is reachable with status code 200
+2024-11-25 16:08:02,541 - INFO - https://yahoo.com is reachable with status code 200
+2024-11-25 16:08:04,969 - INFO - https://linkedin.com is reachable with status code 200
+2024-11-25 16:08:05,801 - WARNING - http://researchgate.net returned status code 403
+2024-11-25 16:08:07,878 - ERROR - https://grooveshark.com is not reachable. Error: HTTPSConnectionPool(host='grooveshark.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022F315DE850>: Failed to resolve 'grooveshark.com' ([Errno 11002] getaddrinfo failed)"))
+2024-11-25 16:08:12,350 - INFO - http://geocities.com. is reachable with status code 200
+2024-11-25 16:10:55,605 - INFO - https://google.com is reachable with status code 200
+2024-11-25 16:10:58,165 - INFO - https://example.com is reachable with status code 200
+2024-11-25 16:11:10,325 - INFO - https://yahoo.com is reachable with status code 200
+2024-11-25 16:11:11,912 - INFO - https://linkedin.com is reachable with status code 200
+2024-11-25 16:11:12,648 - WARNING - http://researchgate.net returned status code 403
+2024-11-25 16:11:14,262 - ERROR - https://grooveshark.com is not reachable. Error: HTTPSConnectionPool(host='grooveshark.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B50F78F820>: Failed to resolve 'grooveshark.com' ([Errno 11002] getaddrinfo failed)"))
+2024-11-25 16:11:20,930 - INFO - http://geocities.com. is reachable with status code 200
+2024-11-25 16:13:39,166 - INFO - https://google.com is reachable with status code 200
+2024-11-25 16:13:40,524 - INFO - https://example.com is reachable with status code 200
+2024-11-25 16:13:49,256 - INFO - https://yahoo.com is reachable with status code 200
+2024-11-25 16:13:52,740 - WARNING - https://linkedin.com returned status code 429
+2024-11-25 16:13:53,904 - WARNING - http://researchgate.net returned status code 403
+2024-11-25 16:13:55,597 - ERROR - https://grooveshark.com is not reachable. Error: HTTPSConnectionPool(host='grooveshark.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F0AEE80A90>: Failed to resolve 'grooveshark.com' ([Errno 11002] getaddrinfo failed)"))
+2024-11-25 16:14:19,280 - INFO - http://geocities.com. is reachable with status code 200
+2024-11-25 17:39:37,438 - WARNING - https://google.com returned status code 429
+2024-11-25 17:39:39,067 - INFO - https://example.com is reachable with status code 200
+2024-11-25 17:39:41,904 - INFO - https://yahoo.com is reachable with status code 200
+2024-11-25 17:39:44,962 - INFO - https://linkedin.com is reachable with status code 200
+2024-11-25 17:39:46,538 - WARNING - http://researchgate.net returned status code 403
+2024-11-25 17:39:47,254 - ERROR - https://grooveshark.com is not reachable. Error: HTTPSConnectionPool(host='grooveshark.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B67A0B4760>: Failed to resolve 'grooveshark.com' ([Errno 11002] getaddrinfo failed)"))
+2024-11-25 17:39:51,984 - INFO - http://geocities.com. is reachable with status code 200
+2024-11-25 17:49:10,622 - WARNING - https://google.com returned status code 429
+2024-11-25 17:49:12,007 - INFO - https://example.com is reachable with status code 200
+2024-11-25 17:49:15,371 - INFO - https://yahoo.com is reachable with status code 200
+2024-11-25 17:49:18,351 - INFO - https://linkedin.com is reachable with status code 200
+2024-11-25 17:49:20,390 - WARNING - http://researchgate.net returned status code 403
+2024-11-25 17:49:21,001 - ERROR - https://grooveshark.com is not reachable. Error: HTTPSConnectionPool(host='grooveshark.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000241961A4760>: Failed to resolve 'grooveshark.com' ([Errno 11002] getaddrinfo failed)"))
+2024-11-25 17:49:26,233 - INFO - http://geocities.com. is reachable with status code 200
+2024-11-25 18:17:53,759 - WARNING - https://google.com returned status code 429
+2024-11-25 18:17:54,751 - INFO - https://example.com is reachable with status code 200
+2024-11-25 18:17:57,408 - INFO - https://yahoo.com is reachable with status code 200
+2024-11-25 18:17:59,448 - INFO - https://linkedin.com is reachable with status code 200
+2024-11-25 18:18:00,659 - WARNING - http://researchgate.net returned status code 403
+2024-11-25 18:18:01,135 - ERROR - https://grooveshark.com is not reachable. Error: HTTPSConnectionPool(host='grooveshark.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001A8947D4760>: Failed to resolve 'grooveshark.com' ([Errno 11002] getaddrinfo failed)"))
+2024-11-25 18:18:07,455 - INFO - http://geocities.com. is reachable with status code 200
+2024-11-25 18:18:07,558 - ERROR - http://9jasms.com.ng is not reachable. Error: HTTPConnectionPool(host='9jasms.com.ng', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001A894810490>: Failed to resolve '9jasms.com.ng' ([Errno 11001] getaddrinfo failed)"))
