@@ -6,6 +6,7 @@ from django.apps import apps
 from django.conf import settings
 from django.core.mail import send_mail
 from django.core.management.base import BaseCommand
+from django.conf import settings
 
 Domain = apps.get_model(settings.DOMAIN_MODEL)
 
@@ -45,7 +46,7 @@ def check_domains():
             send_mail(
                 subject=f"Unreachable Domains Report",
                 message=f"The following domains are not reachable:\n\n{message}",
-                from_email=None,
+                from_email=settings.EMAIL_HOST_USER,
                 recipient_list=["hadeezah18@gmail.com", "ifeanyi@maekandex.com.ng", "justin@maekandex.com.ng"],
             )
             print("Email sent successfully.")

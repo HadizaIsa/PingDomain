@@ -1,0 +1,11 @@
+.idea
+__pycache__
+.env
+env
+venv
+db.sqlite3
+debug.log
+domain_check.log
+error.log
+sms
+media
