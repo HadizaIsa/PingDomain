@@ -1,5 +1,5 @@
 **PingDomain** 
-PingDomain is a Django-based project designed to monitor the status of domains by pinging them at regular intervals. 
+is a Django-based project designed to monitor the status of domains by pinging them at regular intervals. 
 The application ensures efficient domain monitoring by providing scheduled pings and notifications when a domain becomes unreachable.
 **Features**
 Periodically pings a list of domains to check their availability.
